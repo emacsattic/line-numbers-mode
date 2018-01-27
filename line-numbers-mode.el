@@ -2,6 +2,8 @@
 
 ;; Copyright (C) 1999 Jerry G. Chen
 
+;; License: GPL
+
 ;; Author:     Jerry Chen <gchen275@yahoo.com>
 ;; Maintainer: gchen275@yahoo.com
 ;; Created:    Jan-29-1999
